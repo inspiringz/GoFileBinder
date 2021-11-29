@@ -12,7 +12,7 @@ Clone this repo and build GoFileBinder.go first, then start:
 ./GoFileBinder <evil_program> <bind_file> [x64/x86]
 ```
 
-It will release your evil program to `C:\Users\Public\Music\`, and then self-delete after run normal file and evil program.
+It(the outputfile) will release your evil program to `C:\Users\Public\Music\`, and then self-delete after run normal file and evil program.
 
 ![image-20211130013907004](images/image-20211130013907004.png)
 
